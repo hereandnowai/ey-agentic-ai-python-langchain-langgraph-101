@@ -46,7 +46,7 @@ if __name__ == "__main__":
 # --------------------------------------------------------------------------
 # Change the code above, then re-run:  python app.py
 #
-# 1. Change the title to "HERE AND NOW AI — Calculator" and write a better
+# 1. Change the title to "My Calculator" and write a better
 #    description.
 # 2. First add a "power" operation in calculator.py (see its activity 1),
 #    THEN add "power" to the Radio choices here so it appears in the UI.

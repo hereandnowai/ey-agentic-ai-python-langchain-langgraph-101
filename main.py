@@ -1,5 +1,5 @@
 def main():
-    print("Hello from ey-agentic-ai-python-langchain-langgraph-101!")
+    print("Hello from agentic-ai-python-langchain-langgraph-101!")
 
 
 if __name__ == "__main__":

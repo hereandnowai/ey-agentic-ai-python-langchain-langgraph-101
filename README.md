@@ -1,7 +1,4 @@
-# EY Agentic AI — Python + LangChain + LangGraph 101
-
-> **HERE AND NOW AI** — _"AI is Good"_
-> 🌐 [hereandnowai.com](https://hereandnowai.com)
+# Agentic AI — Python + LangChain + LangGraph 101
 
 A hands-on training program covering **Python** (8 hours) and **Agentic AI with LangChain & LangGraph** (24 hours). This repository holds the code, notebooks, and exercises built live during the sessions.
 
@@ -20,8 +17,8 @@ A hands-on training program covering **Python** (8 hours) and **Agentic AI with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/hereandnowai/ey-agentic-ai-python-langchain-langgraph-101.git
-cd ey-agentic-ai-python-langchain-langgraph-101
+git clone https://github.com/hereandnowai/agentic-ai-python-langchain-langgraph-101.git
+cd agentic-ai-python-langchain-langgraph-101
 
 # Create a virtual environment
 python -m venv .venv
@@ -40,20 +37,10 @@ Copy `.env.example` to `.env` and add your API keys before running any LLM examp
 Content is added progressively during class. Expect folders such as:
 
 ```
-python/            # Python foundations track
-langchain/         # LangChain fundamentals
-langgraph/         # LangGraph agentic workflows
-exercises/         # Practice problems
+day-1/             # Python foundations — part 1 + first project
+day-2/             # Python foundations — part 2 + contact book project
+capstone/          # Build-your-own project guide
 ```
-
----
-
-## 🏢 About HERE AND NOW AI
-
-**HERE AND NOW AI** builds practical, ethical AI education and solutions.
-
-- 🌐 Website: [hereandnowai.com](https://hereandnowai.com)
-- 💡 Slogan: _"AI is Good"_
 
 ---
 

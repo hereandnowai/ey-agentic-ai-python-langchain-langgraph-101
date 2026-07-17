@@ -670,7 +670,7 @@ with gr.Blocks(title="Contact Book — mini CRM") as demo:
             )
             name = gr.Textbox(label="Name", placeholder="Priya Raman")
             phone = gr.Textbox(label="Phone", placeholder="98400 12345")
-            email = gr.Textbox(label="Email", placeholder="priya@ey.com")
+            email = gr.Textbox(label="Email", placeholder="priya@example.com")
             save_btn = gr.Button("Save contact", elem_id="crm-save")
             status = gr.HTML()
 

@@ -1,5 +1,5 @@
 [project]
-name = "ey-agentic-ai-python-langchain-langgraph-101"
+name = "agentic-ai-python-langchain-langgraph-101"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

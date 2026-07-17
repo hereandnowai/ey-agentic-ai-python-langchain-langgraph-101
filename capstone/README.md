@@ -1,7 +1,5 @@
 # 🎓 Capstone Project — Build Your Own Python App
 
-> **HERE AND NOW AI** — _"AI is Good"_ · [hereandnowai.com](https://hereandnowai.com)
-
 Welcome to your capstone! This is where **you** put together everything from
 Day 1 and Day 2 — variables, lists, dicts, functions, JSON, and a Gradio UI —
 to build a small but complete application **on your own**.
@@ -193,7 +191,7 @@ demo = gr.Interface(
     ],
     outputs=gr.Textbox(label="Your expenses"),
     title="My Expense Tracker",
-    description="Capstone project · HERE AND NOW AI",
+    description="My capstone project",
 )
 
 if __name__ == "__main__":
@@ -256,5 +254,3 @@ Tick these off before you present:
 > **explain** it. That is what a real developer does.
 
 **Good luck — you've got this!** 🌟
-
-_HERE AND NOW AI · "AI is Good"_

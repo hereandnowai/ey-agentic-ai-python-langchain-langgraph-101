@@ -1,7 +1,7 @@
 {
   "Priya Raman": {
     "phone": "98400 12345",
-    "email": "priya.raman@ey.com"
+    "email": "priya.raman@example.com"
   },
   "Arun Kumar": {
     "phone": "90030 67890",
@@ -9,7 +9,7 @@
   },
   "Sofia Almeida": {
     "phone": "99620 44821",
-    "email": "sofia.almeida@ey.com"
+    "email": "sofia.almeida@example.com"
   },
   "David Chen": {
     "phone": "97910 33456",
@@ -17,7 +17,7 @@
   },
   "Lakshmi Narayanan": {
     "phone": "94440 78123",
-    "email": "lakshmi.n@ey.com"
+    "email": "lakshmi.n@example.com"
   },
   "James Okafor": {
     "phone": "96770 21908",
@@ -29,7 +29,7 @@
   },
   "Deepti": {
     "phone": "9876543210",
-    "email": "deepti@hereandnowai.com"
+    "email": "deepti@example.com"
   },
   "Muthu": {
     "phone": "9876543210",
