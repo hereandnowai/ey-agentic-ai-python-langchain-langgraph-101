@@ -21,7 +21,7 @@ def cosine_similarity(a: list[float], b: list[float]) -> float:
     return dot / (norm_a * norm_b) if norm_a and norm_b else 0.0
 
 passages = [
-    "Meridian home loans require a minimum civil score of 700",
+    "Meridian home loans require a minimum credit score of 700",
     "savings accounts earn 3% interest, per annum"
     "Report a lost or stole stolen card immediately via the app"
 ]
