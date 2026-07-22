@@ -15,7 +15,7 @@ model = init_chat_model(
 ) 
 
 class S(TypedDict):
-    applicants: str
+    applicants: list
     results: Annotated[list, add] # every worker adds its verdict here
 
 class Verdict(BaseModel):
